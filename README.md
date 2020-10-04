@@ -6,4 +6,7 @@ The purpose of this page is to practice my understanding on CSS fundamentals ski
 
 Links in this page do not go anywhere as the key concept of this project is just to focus on CSS understanding.
 
+Github Pages link below.
+https://mrlepak.github.io/NYT-Replica/
+
 Enjoy!
