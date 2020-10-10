@@ -396,6 +396,10 @@ figure{
     max-width: 600px;
   }
 
+  .identity{
+    width: 90%;
+  }
+
   .article-body{
     width: 90%;
   }
