@@ -396,6 +396,10 @@ figure{
     max-width: 600px;
   }
 
+  .title figcaption{
+    margin-left: 5%;
+  }
+
   .identity{
     width: 90%;
   }
@@ -410,10 +414,18 @@ figure{
     grid-gap: 20px;
   }
 
+  .social-media{
+    padding-inline-end: 15%;
+  }
   .nav-grid{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto auto;
     margin-top: 30px;
+    grid-gap: 20px;
+  }
+
+  .nav-items-bold{
+    padding-bottom: 5px;
   }
 
   .nav-footer-container{
